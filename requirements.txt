@@ -1,0 +1,9 @@
+pandas
+seaborn
+matplotlib
+scikit-learn 
+plotly>=5.20
+kaleido>=0.2.1 
+geopandas
+rasterio
+networkx
